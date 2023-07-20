@@ -1,5 +1,6 @@
 {
   "scripts":{
+    "install-and-build": "npm install && npm run build",
     "start": "vite"
     },
   "devDependencies": {
